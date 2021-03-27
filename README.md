@@ -21,8 +21,7 @@
 </ul>
 
 <p>
-    <b>Link da página:</b> <a href="dev-web-primeiro-projeto-git-main-dansf.vercel.app">dev-web-primeiro-projeto-git-main-dansf.vercel.app
-</a>
+    <b>Link da página:</b> <a href="https://dev-web-primeiro-projeto.vercel.app/">https://dev-web-primeiro-projeto.vercel.app/</a>
 </p>
 
 <h4>
